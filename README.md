@@ -1,5 +1,10 @@
 # OpenWebUI Seq Log Analyzer Tool
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![OpenWebUI](https://img.shields.io/badge/Open_WebUI-Tool-green)
+![Seq](https://img.shields.io/badge/Seq-Log_Analysis-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Advanced log analysis tool for Seq (Structured Event Query) with native OpenWebUI integrations, NLP-powered insights, and intelligent query processing.
 
 **Version:** 1.0.0  
